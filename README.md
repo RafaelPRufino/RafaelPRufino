@@ -14,3 +14,4 @@
 [![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) 
 [![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![ReactJs](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logoColor=white&logo=angular)](https://angular.io/)
