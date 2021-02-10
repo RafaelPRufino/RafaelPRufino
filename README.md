@@ -15,3 +15,4 @@
 [![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![ReactJs](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logoColor=white&logo=angular)](https://angular.io/)
+[![ExtJS](https://img.shields.io/badge/-Sencha%20Ext%20JS-95c93d?style=flat&logoColor=white&logo=Sencha%20Ext%20JS)](https://www.sencha.com/products/extjs/)
