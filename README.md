@@ -23,3 +23,7 @@
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logoColor=white&logo=angular)](https://angular.io/)
 [![ExtJS](https://img.shields.io/badge/-Sencha%20Ext%20JS-95c93d?style=flat&logoColor=white&logo=Sencha%20Ext%20JS)](https://www.sencha.com/products/extjs/)
 ---
+
+## Github Stats 
+
+[![RafaelPRufino's github stats](https://github-readme-stats.vercel.app/api?username=RafaelPRufinoo&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RafaelPRufino) [![RafaelPRufino's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPRufino&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/RafaelPRufino)
