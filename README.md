@@ -1,6 +1,6 @@
 ### Hi there 👋!!!!! I'm Rafael
 
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaelPRufino/)](https://github.comRafaelPRufino) 
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaelPRufino/)](https://github.com/RafaelPRufino) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rufino-a51879a2/)](https://www.linkedin.com/in/rafael-rufino-a51879a2/)
 
 [![C Sharp](https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp)
