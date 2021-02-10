@@ -6,7 +6,7 @@
 ---
 
 ### Tech & Tools Preference
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ### Other Languages I know
 [![C Sharp](https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp)
@@ -19,7 +19,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) 
 [![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![ReactJs](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
+[![ReactJs](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)](https://pt-br.reactjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logoColor=white&logo=angular)](https://angular.io/)
 [![ExtJS](https://img.shields.io/badge/-Sencha%20Ext%20JS-95c93d?style=flat&logoColor=white&logo=Sencha%20Ext%20JS)](https://www.sencha.com/products/extjs/)
 ---
