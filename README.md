@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Rafael
+### Hi there 👋!!!!! I'm Rafael
 
-**RafaelPRufino/RafaelPRufino**
+**RafaelPRufino**
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaelPRufino/)](https://github.comRafaelPRufino) 
+
 [![C Sharp](https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp)
 [![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com)
 [![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)](https://www.php.net)
@@ -9,9 +11,9 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![SQLServer](https://img.shields.io/badge/SQL%20Server-SQL%20Server-red)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) 
+[![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) 
 [![Vuejs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![ReactJs](https://img.shields.io/badge/-Vuejs-42b883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![ReactJs](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 
 Here are some ideas to get you started:
 
