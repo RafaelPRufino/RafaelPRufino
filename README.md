@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Rafael
 
-<!--
 **RafaelPRufino/RafaelPRufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![C Sharp](https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp)
 [![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com)
