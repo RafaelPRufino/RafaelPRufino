@@ -26,4 +26,4 @@
 
 ## Github Stats 
 
-[![RafaelPRufino's github stats](https://github-readme-stats.vercel.app/api?username=RafaelPRufinoo&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RafaelPRufino) [![RafaelPRufino's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPRufino&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/RafaelPRufino)
+[![RafaelPRufino's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPRufino&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/RafaelPRufino)
